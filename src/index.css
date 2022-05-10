@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: brown;
+}
+
+textarea{
+  position: relative;
+  left: 250px;
+  align-content: center;
+  height: 400px;
+  width: 300px;
+
 }
 
 code {
